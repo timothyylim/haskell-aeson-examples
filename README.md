@@ -7,4 +7,4 @@ Can be used as a sandbox.
 Resources:
 
 - https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
-# haskell-aeson-examples
+
